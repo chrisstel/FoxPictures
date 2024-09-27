@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoxPictures</string>
+    <string name="fox_picture_description">Fox picture</string>
+    <string name="get_image_button_text">Get image</string>
+</resources>
